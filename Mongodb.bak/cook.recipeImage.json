@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "654908a12acaa5306b4b0838"
+  },
+  "_id_image": {
+    "$oid": "654908a12acaa5306b4b0836"
+  },
+  "_id_recipe": {
+    "$oid": "654908a12acaa5306b4b0834"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490c6c2acaa5306b4b09e1"
+  },
+  "_id_image": {
+    "$oid": "65490c6c2acaa5306b4b09df"
+  },
+  "_id_recipe": {
+    "$oid": "65490c6c2acaa5306b4b09dd"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490d092acaa5306b4b0a2d"
+  },
+  "_id_image": {
+    "$oid": "65490d092acaa5306b4b0a2b"
+  },
+  "_id_recipe": {
+    "$oid": "65490d092acaa5306b4b0a29"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490fdd2acaa5306b4b0c9b"
+  },
+  "_id_recipe": {
+    "$oid": "65490fdd2acaa5306b4b0c97"
+  },
+  "_id_image": {
+    "$oid": "65490fdd2acaa5306b4b0c99"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654910722acaa5306b4b0d14"
+  },
+  "_id_image": {
+    "$oid": "654910722acaa5306b4b0d12"
+  },
+  "_id_recipe": {
+    "$oid": "654910722acaa5306b4b0d10"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654911582acaa5306b4b0db0"
+  },
+  "_id_image": {
+    "$oid": "654911582acaa5306b4b0dae"
+  },
+  "_id_recipe": {
+    "$oid": "654911582acaa5306b4b0dac"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654916862acaa5306b4b0e27"
+  },
+  "_id_recipe": {
+    "$oid": "654916862acaa5306b4b0e23"
+  },
+  "_id_image": {
+    "$oid": "654916862acaa5306b4b0e25"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654917c32acaa5306b4b0e7b"
+  },
+  "_id_recipe": {
+    "$oid": "654917c32acaa5306b4b0e77"
+  },
+  "_id_image": {
+    "$oid": "654917c32acaa5306b4b0e79"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654919462acaa5306b4b0f70"
+  },
+  "_id_recipe": {
+    "$oid": "654919462acaa5306b4b0f6c"
+  },
+  "_id_image": {
+    "$oid": "654919462acaa5306b4b0f6e"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491b062acaa5306b4b10a3"
+  },
+  "_id_recipe": {
+    "$oid": "65491b062acaa5306b4b109f"
+  },
+  "_id_image": {
+    "$oid": "65491b062acaa5306b4b10a1"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491bc72acaa5306b4b112b"
+  },
+  "_id_recipe": {
+    "$oid": "65491bc72acaa5306b4b1127"
+  },
+  "_id_image": {
+    "$oid": "65491bc72acaa5306b4b1129"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491cab2acaa5306b4b11cb"
+  },
+  "_id_recipe": {
+    "$oid": "65491cab2acaa5306b4b11c7"
+  },
+  "_id_image": {
+    "$oid": "65491cab2acaa5306b4b11c9"
+  },
+  "favorite": false
+}]

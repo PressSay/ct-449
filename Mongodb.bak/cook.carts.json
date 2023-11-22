@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "654d5dddb362b41c90520485"
+  },
+  "_id_account": "6548f6652acaa5306b4afc61",
+  "paid": "paid"
+},
+{
+  "_id": {
+    "$oid": "654d613dcd262967e94a3c87"
+  },
+  "_id_account": "654c22ccd5f0b8476ce6d257",
+  "paid": "normal"
+},
+{
+  "_id": {
+    "$oid": "654d85ec7764cbc7b2f15e42"
+  },
+  "_id_account": "6548f6652acaa5306b4afc61",
+  "paid": "normal"
+}]

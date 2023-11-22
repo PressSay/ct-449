@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6549ff846c16632b6897ff59"
+  },
+  "slider": false,
+  "sold": 0,
+  "sku": "BN3056",
+  "new": "true",
+  "top": false,
+  "trending": false,
+  "name": "Dụng cụ nhà bếp",
+  "price": "684299",
+  "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semperauris placerat eleifen deleo. ",
+  "_id_category": "6549fcad6c16632b6897fd17",
+  "rated": false,
+  "feature": "Gimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged mply dummy text of the printing and typesetting industry. Gimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took. ",
+  "chosen": false,
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6549ffea6c16632b6897ffb4"
+  },
+  "chosen": false,
+  "sold": 0,
+  "new": false,
+  "sku": "BN3050",
+  "trending": false,
+  "name": "Dụng cụ nhà bếp",
+  "price": "684299",
+  "rated": false,
+  "slider": false,
+  "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semperauris placerat eleifen deleo. ",
+  "_id_category": "6549fc686c16632b6897fce4",
+  "feature": "Gimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged mply dummy text of the printing and typesetting industry. Gimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took. ",
+  "top": "true",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654a00626c16632b68980010"
+  },
+  "chosen": false,
+  "sold": 0,
+  "new": false,
+  "sku": "BN3050",
+  "trending": false,
+  "name": "Dụng cụ nhà bếp",
+  "price": "684299",
+  "rated": "true",
+  "slider": false,
+  "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semperauris placerat eleifen deleo. ",
+  "_id_category": "6549fd196c16632b6897fd63",
+  "feature": "Gimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged mply dummy text of the printing and typesetting industry. Gimply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took. ",
+  "top": false,
+  "favorite": false
+}]

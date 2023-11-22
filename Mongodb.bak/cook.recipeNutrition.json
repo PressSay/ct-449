@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "6549058b2acaa5306b4b0508"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "6548f8812acaa5306b4afe2f"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654906bc2acaa5306b4b05ad"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "6548f8812acaa5306b4afe2f"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654908a12acaa5306b4b083e"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "654908a12acaa5306b4b0834"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654908a12acaa5306b4b0840"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "654908a12acaa5306b4b0834"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490c6c2acaa5306b4b09e7"
+  },
+  "unit": "329",
+  "name": "Calories",
+  "_id_recipe": {
+    "$oid": "65490c6c2acaa5306b4b09dd"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490c6c2acaa5306b4b09e9"
+  },
+  "unit": "10.5g",
+  "name": "Sugar",
+  "_id_recipe": {
+    "$oid": "65490c6c2acaa5306b4b09dd"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490d092acaa5306b4b0a33"
+  },
+  "unit": "329",
+  "name": "Calories",
+  "_id_recipe": {
+    "$oid": "65490d092acaa5306b4b0a29"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490d092acaa5306b4b0a35"
+  },
+  "unit": "10.5g",
+  "name": "Sugar",
+  "_id_recipe": {
+    "$oid": "65490d092acaa5306b4b0a29"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490fdd2acaa5306b4b0ca1"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "65490fdd2acaa5306b4b0c97"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65490fdd2acaa5306b4b0ca3"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "65490fdd2acaa5306b4b0c97"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654910722acaa5306b4b0d1a"
+  },
+  "_id_recipe": {
+    "$oid": "654910722acaa5306b4b0d10"
+  },
+  "name": "Calories",
+  "unit": "329",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654910722acaa5306b4b0d1c"
+  },
+  "_id_recipe": {
+    "$oid": "654910722acaa5306b4b0d10"
+  },
+  "name": "Sugar",
+  "unit": "10.5g",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654911582acaa5306b4b0db6"
+  },
+  "_id_recipe": {
+    "$oid": "654911582acaa5306b4b0dac"
+  },
+  "name": "Calories",
+  "unit": "329",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654911582acaa5306b4b0db8"
+  },
+  "_id_recipe": {
+    "$oid": "654911582acaa5306b4b0dac"
+  },
+  "name": "Sugar",
+  "unit": "10.5g",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654916862acaa5306b4b0e2f"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "654916862acaa5306b4b0e23"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654916862acaa5306b4b0e31"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "654916862acaa5306b4b0e23"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654917c32acaa5306b4b0e83"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "654917c32acaa5306b4b0e77"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654917c32acaa5306b4b0e85"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "654917c32acaa5306b4b0e77"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654919462acaa5306b4b0f78"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "654919462acaa5306b4b0f6c"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "654919462acaa5306b4b0f7a"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "654919462acaa5306b4b0f6c"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491b062acaa5306b4b10ab"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "65491b062acaa5306b4b109f"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491b062acaa5306b4b10ad"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "65491b062acaa5306b4b109f"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491bc72acaa5306b4b1133"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "65491bc72acaa5306b4b1127"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491bc72acaa5306b4b1135"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "65491bc72acaa5306b4b1127"
+  },
+  "name": "Sugar",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491cab2acaa5306b4b11d3"
+  },
+  "unit": "329",
+  "_id_recipe": {
+    "$oid": "65491cab2acaa5306b4b11c7"
+  },
+  "name": "Calories",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65491cab2acaa5306b4b11d5"
+  },
+  "unit": "10.5g",
+  "_id_recipe": {
+    "$oid": "65491cab2acaa5306b4b11c7"
+  },
+  "name": "Sugar",
+  "favorite": false
+}]

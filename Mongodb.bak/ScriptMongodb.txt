@@ -1,0 +1,1 @@
+ db.categories.remove({}); db.categoryImage.remove({}); db.images.remove({}); db.productImage.remove({}); db.productReview.remove({}); db.products.remove({}); db.recipeImage.remove({}); db.recipeIngredient.remove({}); db.recipeProcess.remove({}); db.recipeReview.remove({}); db.recipes.remove({}); db.reviews.remove({});

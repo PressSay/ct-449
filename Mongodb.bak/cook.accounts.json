@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6548f6652acaa5306b4afc61"
+  },
+  "email": "admin@gmail.com",
+  "imagePath": "public/uploads/avatar-1699280485350.jpg",
+  "name": "admin",
+  "phone": "0338161382",
+  "password": "123456789",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "654c22ccd5f0b8476ce6d257"
+  },
+  "name": "admin1",
+  "phone": "0338161382",
+  "password": "123456789",
+  "email": "admin1@gmail.com",
+  "imagePath": "public/uploads/default-avatar.jpg",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "654c22dbd5f0b8476ce6d262"
+  },
+  "name": "viplanhts",
+  "phone": "0343861387",
+  "password": "123456789",
+  "email": "viplanhts@gmail.com",
+  "imagePath": "public/uploads/default-avatar.jpg",
+  "deleted": false
+}]

@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6548e6090888b6d073c849dc"
+  },
+  "description": "Các Món Ăn Liên Quan Đến Gà",
+  "name": "Gà",
+  "favorite": false,
+  "recipe": true
+},
+{
+  "_id": {
+    "$oid": "6548e6a90888b6d073c84a6c"
+  },
+  "description": "Các Thức Uống Liên Quan Đến Nước Ép",
+  "name": "Nước Ép",
+  "favorite": false,
+  "recipe": true
+},
+{
+  "_id": {
+    "$oid": "6548e6e10888b6d073c84a9e"
+  },
+  "description": "Các Món Ăn Liên Quan Đến Thịt Nướng",
+  "name": "Thịt Nướng",
+  "favorite": false,
+  "recipe": true
+},
+{
+  "_id": {
+    "$oid": "6548e8c70888b6d073c84c2f"
+  },
+  "name": "Món Tráng Miện",
+  "description": "Các Món Ăn Tráng Miện",
+  "favorite": false,
+  "recipe": true
+},
+{
+  "_id": {
+    "$oid": "6549fc686c16632b6897fce4"
+  },
+  "description": "Các món hàng đứng top",
+  "name": "Top Sell",
+  "favorite": false,
+  "recipe": false
+},
+{
+  "_id": {
+    "$oid": "6549fcad6c16632b6897fd17"
+  },
+  "description": "Các món hàng mới nhập",
+  "name": "New",
+  "favorite": false,
+  "recipe": false
+},
+{
+  "_id": {
+    "$oid": "6549fd196c16632b6897fd63"
+  },
+  "description": "Các món hàng có đánh giá ",
+  "name": "Top Rated",
+  "favorite": false,
+  "recipe": false
+}]

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6548e6090888b6d073c849e0"
+  },
+  "_id_category": {
+    "$oid": "6548e6090888b6d073c849dc"
+  },
+  "_id_image": {
+    "$oid": "6548e6090888b6d073c849de"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6548e6a90888b6d073c84a70"
+  },
+  "_id_category": {
+    "$oid": "6548e6a90888b6d073c84a6c"
+  },
+  "_id_image": {
+    "$oid": "6548e6a90888b6d073c84a6e"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6548e6e10888b6d073c84aa2"
+  },
+  "_id_category": {
+    "$oid": "6548e6e10888b6d073c84a9e"
+  },
+  "_id_image": {
+    "$oid": "6548e6e10888b6d073c84aa0"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6548e8c70888b6d073c84c33"
+  },
+  "_id_category": {
+    "$oid": "6548e8c70888b6d073c84c2f"
+  },
+  "_id_image": {
+    "$oid": "6548e8c70888b6d073c84c31"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6549fc686c16632b6897fce8"
+  },
+  "_id_category": {
+    "$oid": "6549fc686c16632b6897fce4"
+  },
+  "_id_image": {
+    "$oid": "6549fc686c16632b6897fce6"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6549fcad6c16632b6897fd1b"
+  },
+  "_id_image": {
+    "$oid": "6549fcad6c16632b6897fd19"
+  },
+  "_id_category": {
+    "$oid": "6549fcad6c16632b6897fd17"
+  },
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "6549fd196c16632b6897fd67"
+  },
+  "_id_image": {
+    "$oid": "6549fd196c16632b6897fd65"
+  },
+  "_id_category": {
+    "$oid": "6549fd196c16632b6897fd63"
+  },
+  "favorite": false
+}]
